@@ -1,0 +1,15 @@
+HackGT Ideas (notes from Tuesday)
+
+Web application
+
+Tariff simulation (economics)
+Sentiment analysis
+Gerrymandering
+
+
+https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
+https://www.kaggle.com/datasnaek/chess
+https://www.kaggle.com/paultimothymooney/medical-speech-transcription-and-intent#overview-of-recordings.csv
+https://www.kaggle.com/cms/cms-medicare
+https://www.kaggle.com/stackoverflow/stackoverflow
+https://www.kaggle.com/paultimothymooney/how-to-query-the-stack-overflow-data 
